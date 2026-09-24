@@ -139,6 +139,8 @@ By completing this curriculum you will have built:
 
 Each project is fully functional and portfolio-ready.
 
+---
+
 ## 🌟 Features
 
 - **📖 Comprehensive Content**: 22+ lessons covering the full AI development spectrum
