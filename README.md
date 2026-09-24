@@ -125,6 +125,19 @@ Focus on lessons 15-17 for deep dives into retrieval-augmented generation and AI
 Check lessons 18-21 for advanced topics including fine-tuning and specialized models.
 
 ---
+## 🏆 What You'll Build
+
+By completing this curriculum you will have built:
+
+| Project | Lesson | What It Does |
+|---|---|---|
+| Prompt Engineering Lab | 04-05 | Test and optimize prompts for different use cases |
+| Chat Application | 07 | Conversational AI with memory and context |
+| AI Search Engine | 08 | Semantic search using vector embeddings |
+| RAG Agent | 15-17 | Intelligent agent that retrieves and reasons over documents |
+| Fine-tuned Model | 18 | Custom model trained on your own data |
+
+Each project is fully functional and portfolio-ready.
 
 ## 🌟 Features
 
